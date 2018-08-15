@@ -1,0 +1,8 @@
+prefix=/home/tony/temp/pepper_ws/src/pepper_meshes/build/devel
+
+Name: pepper_meshes
+Description: Description of pepper_meshes
+Version: 0.2.3
+Cflags: 
+Libs: -L/home/tony/temp/pepper_ws/src/pepper_meshes/build/devel/lib 
+Requires: 
